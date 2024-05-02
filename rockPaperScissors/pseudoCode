@@ -1,0 +1,4 @@
+CREATE a function that randomize rock paper and scissors.
+    getCompChoice()
+        randomize rock paper and scissors
+        return the result
